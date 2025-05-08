@@ -1,0 +1,7 @@
+Name : Aryan Patil
+Class : TE IT 02
+Subject : WAD
+Initial Commit
+
+Problem Statement : Create version control on Github & using Git commands to create repo & Push code to Github
+Link to repo : https://github.com/aryanpatil97/wad-ass-c.git
